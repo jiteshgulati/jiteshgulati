@@ -30,3 +30,9 @@ CSE (AI/ML) Student | AI • Full Stack • Open Source
 
 - GitHub: [jiteshgulati](https://github.com/jiteshgulati)
 - Email: jiteshgulati805@gmail.com
+
+- ---
+
+## GitHub Stats
+
+![Jitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiteshgulati&show_icons=true&hide_border=true)
