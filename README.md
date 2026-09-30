@@ -13,7 +13,7 @@ CSE (AI/ML) Student | AI • Full Stack • Open Source Contributor
 
 ## Tech Stack
 
-**Languages:** Java, Python, Go, JavaScript, HTML, CSS
+**Languages:** Java, Python, TypeScript, Go, JavaScript, HTML, CSS
 
 **Frontend:** React
 
