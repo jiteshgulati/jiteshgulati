@@ -18,3 +18,10 @@ CSE (AI/ML) Student | AI • Full Stack • Open Source
 **Backend / Tools:** Node.js, Git, GitHub
 
 **Cloud & AI:** AWS, AI/ML
+
+## Currently Learning
+
+- Data Structures & Algorithms
+- Artificial Intelligence & Machine Learning
+- Backend Development
+- Open Source Development
