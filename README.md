@@ -1,3 +1,5 @@
+<img width="1110" height="277" alt="Jitesh_Gulati_LinkedIn_Banner_Cropped" src="https://github.com/user-attachments/assets/fb109386-2407-40e8-9b87-9893c332664f" />
+
 # Hi, I'm Jitesh Gulati
 
 CSE (AI/ML) Student | AI • Full Stack • Open Source
