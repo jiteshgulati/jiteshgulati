@@ -8,3 +8,13 @@ CSE (AI/ML) Student | AI • Full Stack • Open Source
 - Interested in AI, full-stack development, backend systems, and open source
 - Currently improving my skills in DSA, Python, Java, and modern web development
 - I enjoy building practical projects through hackathons and open-source contributions
+
+- ## Tech Stack
+
+**Languages:** Java, Python, Go, JavaScript, HTML, CSS
+
+**Frontend:** React
+
+**Backend / Tools:** Node.js, Git, GitHub
+
+**Cloud & AI:** AWS, AI/ML
