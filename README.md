@@ -23,7 +23,7 @@ CSE (AI/ML) Student | AI • Full Stack • Open Source Contributor
 
 ## Connect With Me
 
-- Email: workspacejitesh@gmail
+- Email: jiteshgulati805@gmail.com
 
 - ---
 
