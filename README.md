@@ -2,7 +2,7 @@
 
 # Hi, I'm Jitesh Gulati
 
-CSE (AI/ML) Student | AI • Full Stack • Open Source
+CSE (AI/ML) Student | AI • Full Stack • Open Source Contributor
 
 ## About Me
 
