@@ -9,7 +9,7 @@ CSE (AI/ML) Student | AI • Full Stack • Open Source
 - Currently improving my skills in DSA, Python, Java, and modern web development
 - I enjoy building practical projects through hackathons and open-source contributions
 
-- ## Tech Stack
+## Tech Stack
 
 **Languages:** Java, Python, Go, JavaScript, HTML, CSS
 
