@@ -25,3 +25,8 @@ CSE (AI/ML) Student | AI • Full Stack • Open Source
 - Artificial Intelligence & Machine Learning
 - Backend Development
 - Open Source Development
+
+## Connect With Me
+
+- GitHub: [jiteshgulati](https://github.com/jiteshgulati)
+- Email: jiteshgulati805@gmail.com
